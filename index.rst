@@ -60,19 +60,24 @@ Walmart Gift Cards offer a convenient, flexible, and secure way to shop both in-
 Frequently Asked Questions (FAQs)
 =================================================
 
-How to register a Walmart card?
+**How to register a Walmart card?**
+
 You don’t need to register most Walmart gift cards to use them. Simply activate the card at purchase. For Walmart MoneyCards or reloadable prepaid cards, you can create an account at walmartmoneycard.com to register and manage your card.
 
-What to do if my Walmart gift card is lost?
+**What to do if my Walmart gift card is lost?**
+
 If your Walmart gift card is lost or stolen, contact Walmart Customer Service immediately. If you have the original receipt or card number, they may be able to replace or transfer the balance to a new card.
 
-Can I use a Walmart gift card online?
+**Can I use a Walmart gift card online?**
+
 Yes! Walmart gift cards can be used for purchases on Walmart.com. During checkout, enter your card number and PIN just like you would with a debit or credit card.
 
-Can I reload my Walmart gift card?
+**Can I reload my Walmart gift card?**
+
 Yes, many Walmart gift cards are reloadable. You can add funds at any Walmart store register. Check your card packaging to see if reload is available.
 
-Can I use a Walmart gift card at Sam’s Club?
+**Can I use a Walmart gift card at Sam’s Club?**
+
 Yes, Walmart gift cards can be used at Sam’s Club locations and online, but a Sam’s Club membership is required for purchases.
 
 
