@@ -1,1 +1,1 @@
-# walmartgiftcardbalance
+# walmart-gift-card-balance
