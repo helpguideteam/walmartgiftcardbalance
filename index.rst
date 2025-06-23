@@ -15,7 +15,7 @@ A Walmart Gift Card is a prepaid card that can be used for purchases at Walmart,
 
 Your Quick Guide to Check Your Walmart Gift Card Balance - Step-by-Step Guide
 =================================================
-1. Open a browser and go to walmart Gift Card balance page.
+1. Open a browser and go to `www.walmartgift.com <https://www.walmart.com/account/giftcards/balance>`_ page.
 2. You’ll be redirected to the walmart gift card balance page enter your gift card Information: 
   - The **16-digit gift card number** (found on the back of the card)  
   - The **4-digit PIN** (you may need to scratch off a silver strip on physical cards)
@@ -83,4 +83,4 @@ Checking your Walmart gift card balance is quick and easy—whether online, by p
 
 **Quick Access:**  
 Need to check walmart gift card balance? Start here:
-👉 `Check your Walmart Gift Card Balance here <https://business.walmart.com/account/giftcards/balance>`_
+👉 `Check your Walmart Gift Card Balance Now <https://business.walmart.com/account/giftcards/balance>`_
