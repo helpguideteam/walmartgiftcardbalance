@@ -12,8 +12,8 @@ import sys
 # -- Project information -----------------------------------------------------
 
 project = 'Check your Walmart Gift Card Balance'
-copyright = '2025, Walmart'
-author = 'Walmart Support Team'
+copyright = '2025, Walmart Gift Card Balance'
+author = 'Walmart Gift Card Balance Team'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0.0'
