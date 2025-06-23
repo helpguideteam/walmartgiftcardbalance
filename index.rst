@@ -3,7 +3,7 @@ Easy Steps to Check your Walmart Gift Card Balance
 
 Visit `www.walmartgift.com <https://www.walmart.com/account/giftcards/balance>`_ to quickly check your Walmart Gift Card balance and keep track of your spending. Whether you're shopping in-store or online, knowing your card balance ensures a hassle-free checkout experience.
 
-.. image:: get-button.png
+.. image:: get-started-here.png
    :alt: check your Walmart Gift Card balance
    :target:  
 
