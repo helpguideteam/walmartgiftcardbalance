@@ -5,16 +5,16 @@ Visit `www.walmartgift.com <https://www.walmart.com/account/giftcards/balance>`_
 
 .. image:: get-started-here.png
    :alt: check your Walmart Gift Card balance
-   :target:  
+   :target:  https://fm.ci?aHR0cHM6Ly93YWxtYXJ0LWdpZnQtY2FyZC1oZWxwY2VudGVyLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
+
 
 Understanding Walmart Gift Cards
-
-----------------------------------------------------------------------
+=================================================
 
 A Walmart Gift Card is a prepaid card that can be used for purchases at Walmart, Sam’s Club, and affiliated websites. It’s reloadable in-store and a popular gift for holidays, birthdays, and everyday savings.
 
-Your Quick Guide to Check Your Walmart Gift Card Balance 
-----------------------------------------------------------------------
+Your Quick Guide to Check Your Walmart Gift Card Balance - Step-by-Step Guide
+=================================================
 1. Open a browser and go to walmart Gift Card balance page.
 2. You’ll be redirected to the walmart gift card balance page enter your gift card Information: 
   - The **16-digit gift card number** (found on the back of the card)  
@@ -22,7 +22,7 @@ Your Quick Guide to Check Your Walmart Gift Card Balance
 3. Click “Check Balance” to view your current balance and usage history.
 
 Alternative Ways to Check Walmart Gift Card Balance
----------------------------------------------------
+=================================================
 
 **In-Store**  
 Visit any Walmart location and ask a cashier to check your gift card balance. You’ll need to present the card or barcode.
@@ -58,7 +58,7 @@ Walmart Gift Cards offer a convenient, flexible, and secure way to shop both in-
 
 
 Frequently Asked Questions (FAQs)
----------------------------------
+=================================================
 
 How to register a Walmart card?
 You don’t need to register most Walmart gift cards to use them. Simply activate the card at purchase. For Walmart MoneyCards or reloadable prepaid cards, you can create an account at walmartmoneycard.com to register and manage your card.
@@ -77,7 +77,7 @@ Yes, Walmart gift cards can be used at Sam’s Club locations and online, but a 
 
 
 Final Thoughts:
----------------
+=================================================
 Checking your Walmart gift card balance is quick and easy—whether online, by phone, or in-store. Keep your card number and PIN handy, and consider using the Walmart app to manage multiple cards efficiently. Don’t forget to check your balance before shopping so you can plan your purchases smartly!
  
 
