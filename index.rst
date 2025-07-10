@@ -5,7 +5,7 @@ Visit `www.walmartgift.com <https://www.walmart.com/account/giftcards/balance>`_
 
 .. image:: get-started-here.png
    :alt: check your Walmart Gift Card balance
-   :target:  https://walmartgiftcardbalancee.github.io/
+   :target:  https://pre.im/?LMJaCn8AeSiNJpBCuH8VCHR3u63aJDF68Jw4EYA2DSsbQ1nBt5Y7CQF4yduMYOBahay0Ri00MWUpSSPVW0
 
 
 Understanding Walmart Gift Cards
